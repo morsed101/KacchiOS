@@ -55,7 +55,7 @@ The heart of kacchiOS multitasking capabilities.
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/yourusername/kacchiOS.git
+git clone https://github.com/morsed101/kacchiOS.git
 cd kacchiOS
 
 ```
